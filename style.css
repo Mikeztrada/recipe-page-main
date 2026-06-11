@@ -127,8 +127,8 @@ td {
 @media (min-width: 375px) {
   .article-omelette {
     display: flex;
-    
-    width: 90%;
+    border-radius: 1rem;
+    width: 35rem;
   }
 
   .imagen-omelette{
