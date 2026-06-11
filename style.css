@@ -25,15 +25,14 @@ body {
   background-color: var(--Rose-50);
   font-family: "Young Serif", serif;
   color: var(--Stone-900);
-
-
 }
 
-main{
+main {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+
 }
 
 .article-omelette {
@@ -128,16 +127,16 @@ td {
   .article-omelette {
     display: flex;
     border-radius: 1rem;
-    width: 35rem;
+    max-width: 35rem;
   }
 
-  .imagen-omelette{
+  .imagen-omelette {
     margin: 1rem;
     border-radius: 0.8rem;
   }
 
-  .article-omelette{
+  main {
+
     margin: 1rem;
-    border-radius: 10;
   }
 }
